@@ -198,6 +198,10 @@
         object-fit: cover;
     }
 }
+.active-nav {
+    color: #88B44E !important; /* Change the color to your desired active color */
+    /* Add any other styling for the active state */
+}
 
 .page-header {
     background: linear-gradient(rgba(136, 180, 78, .7), rgba(136, 180, 78, .7)), url(../img/carousel-1.jpg) center center no-repeat;
